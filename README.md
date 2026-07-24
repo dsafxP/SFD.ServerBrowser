@@ -17,7 +17,11 @@ Server browser for Superfighters Deluxe to view available game servers in real-t
 
 </div>
 
-## Installation
+## 🚀 Installation
+
+Download a binary from [releases](https://github.com/dsafxP/SFDServerBrowser/releases) and run it.
+
+### 🔨 Manual
 
 1. Clone the repository:
    ```bash
